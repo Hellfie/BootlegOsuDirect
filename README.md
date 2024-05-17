@@ -1,6 +1,10 @@
 # BootlegOsuDirect
 osu!direct but free
+
+
 uses osu direct api url and adds beatmap number to the end of it, somehow that works
+
+
 to use click the new button to the top left
 
 
