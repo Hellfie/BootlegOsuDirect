@@ -39,8 +39,6 @@
     setTimeout(() => {
         //setTimeout needed to allow a few ms for the new Btn to be injected onto page
         $('#chicha').addEventListener('click', () => {
-            var tohide = document.querySelector('div.resizable-chat-area-component');
-            //tohide.remove();
             let mapurl = "https://osu.direct/api/d/" + cpw2;
             window.open(mapurl,"_self")
         });
