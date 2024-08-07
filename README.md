@@ -1,3 +1,6 @@
+okay scratch all that i've been told this is not how osu!direct works at all, my bad
+
+
 # BootlegOsuDirect
 osu!direct but free
 
