@@ -1,25 +1,8 @@
-# okay scratch all that i've been told this is not how osu!direct works at all, my bad
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # BootlegOsuDirect
 osu!direct but free
 
 
-uses osu direct api url and adds beatmap number to the end of it, somehow that works
+adds additional button to the site. uses osu direct api url and adds beatmap number to the end of it, somehow that works. downloads from such links are times faster than normal ones
 
 
 requires violentmonkey, to use click the new button to the top left
