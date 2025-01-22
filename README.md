@@ -2,7 +2,7 @@
 osu!direct but free
 
 
-adds additional button to the site. uses osu direct api url and adds beatmap number to the end of it, somehow that works. downloads from such links are times faster than normal ones
+uses osu direct api url and adds beatmap number to the end of it, somehow that works. downloads from such links are times faster than normal ones
 
 
 requires violentmonkey, to use click the new button to the top left
